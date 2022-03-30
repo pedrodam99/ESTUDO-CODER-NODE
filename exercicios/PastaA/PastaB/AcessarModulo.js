@@ -1,5 +1,5 @@
 //nesse exemplo saimos de dois diretorios (melhor forma)
-let moduloA1 = require('../../../exercicios/moduloA.js')
+let moduloA1 = require('../../../exercicios/moduloA')
 console.log(moduloA1.ola)
 //Acessando pelo caminho absoluto (pior forma)
 let moduloA2 = require("C:\\Users\\USUARIO\\Curso WEB MODERNO - CODER\\Node\\exercicios\\moduloA.js")
