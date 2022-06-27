@@ -6,4 +6,3 @@ Node é um ambiente de execução de javascript, tornando possível utilizar ess
 
 Nesse capítulo ainda foi visto um pouco de express.js, explicando que esse framework utiliza o padrão middleware (chain of responsability), e  para finalizar foi utilizado o postman para fazer um CRUD simples utilizando sistema de rotas e métodos HTTP.
 
-###### curso orquestrado pela COD3R
